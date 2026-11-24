@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+DRAGON QUEST BUILDERS™ 2 is a block-building RPG set in a fantasy land threatened by an evil cult. Explore, battle, build and harvest in the charming single-player campaign or build big projects in the online sandbox mode for up to 4-players.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: AMD Ryzen™ 3 1300X or above | Intel® Core™ i3-3225  or … / Rec: AMD Ryzen™ 3 1300X or above | Intel® Core™ i7-3770 or a… | Intel Core i5 / Apple M1 |
+| **Memory** | 6 GB RAM | 6 GB RAM |
+| **Graphics** | Min: AMD Radeon™ HD 7750 (2GB) / NVIDIA® GeForce® GT 640 (2G… / Rec: AMD Radeon™ RX Vega 56 / NVIDIA® GeForce® GTX 1060 6 GB… | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 12 GB available space | 12 GB available space |
+| **OS *** | Windows® 7 SP1 / 8.1 / 10 64-bit | Windows® 7 SP1 / 8.1 / 10 64-bit |
+| **Additional Notes** | Min: Network: Broadband Internet Connection Expected Framera… / Rec: Network: Broadband Internet Connection Expected Framera… | Network: Broadband Internet Connection Expected Framera… |
 
 ---
 
